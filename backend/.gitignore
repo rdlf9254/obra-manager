@@ -1,0 +1,26 @@
+/backend/passwords.json
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+
+# Database #
+db.sqlite3
+
+# MacOS #
+.DS_Store
+
+# Env
+.env
+passwords.json
+
+# Pipenv #
+Pipfile
+Pipfile.lock
+
+# IDEs #
+.vscode/
+.idea/
+*.swp
